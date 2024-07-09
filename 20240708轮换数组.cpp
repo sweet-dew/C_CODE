@@ -73,6 +73,7 @@ void takeTurns3(int nums[], int n, int k)
 }
 
 
+
 void swap(int a[],int n)
 {
 	for (int i = 0; i < n / 2; i++)
